@@ -1,0 +1,7 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+input {
+	@apply bg-[#05BFDB] placeholder:text-[#643843] py-2 px-4 my-1 w-1/2 rounded-md text-[#000] shadow-2xl outline-none font-bold
+}

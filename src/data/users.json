@@ -1,0 +1,32 @@
+[
+	{
+		"id": 1,
+		"username": "Aman",
+		"email": "aman@gmail.com",
+		"phone": 9999988888
+	},
+	{
+		"id": 2,
+		"username": "Raj",
+		"email": "raj@gmail.com",
+		"phone": 7878787878
+	},
+	{
+		"id": 3,
+		"username": "Rajendra",
+		"email": "rajendra@gmail.com",
+		"phone": 6262633333
+	},
+	{
+		"id": 4,
+		"username": "Prakash",
+		"email": "prakash@gmail.com",
+		"phone": 1515151515
+	},
+	{
+		"id": 5,
+		"username": "Devesh",
+		"email": "devesh@gmail.com",
+		"phone": 4444455555
+	}
+]
